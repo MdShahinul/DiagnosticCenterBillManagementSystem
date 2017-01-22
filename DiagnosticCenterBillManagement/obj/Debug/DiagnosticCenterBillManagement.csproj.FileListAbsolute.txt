@@ -1,0 +1,15 @@
+c:\users\pikul\documents\visual studio 2013\Projects\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\DiagnosticCenterBillManagement.dll.config
+c:\users\pikul\documents\visual studio 2013\Projects\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\DiagnosticCenterBillManagement.dll
+c:\users\pikul\documents\visual studio 2013\Projects\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\DiagnosticCenterBillManagement.pdb
+c:\users\pikul\documents\visual studio 2013\Projects\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\obj\Debug\DiagnosticCenterBillManagement.dll
+c:\users\pikul\documents\visual studio 2013\Projects\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\obj\Debug\DiagnosticCenterBillManagement.pdb
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\DiagnosticCenterBillManagement.dll.config
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\DiagnosticCenterBillManagement.dll
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\DiagnosticCenterBillManagement.pdb
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\obj\Debug\DiagnosticCenterBillManagement.csprojResolveAssemblyReference.cache
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\obj\Debug\DiagnosticCenterBillManagement.dll
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\obj\Debug\DiagnosticCenterBillManagement.pdb
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\itextsharp.dll
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\itextsharp.pdfa.dll
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\itextsharp.xtra.dll
+C:\Users\SHAHIN\Desktop\Pikul Vi\DiagnosticCenterBillManagement\DiagnosticCenterBillManagement\bin\itextsharp.xml
